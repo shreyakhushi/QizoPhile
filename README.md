@@ -1,0 +1,2 @@
+# QizoPhile
+QizPhile is a  dekstop-application for examination or quiz creating. The main objective of this is to efficiently evaluate the candidate through a fully automated system that not only saves lot of time but also gives fast results. The system will show result instantly after the examination is finished. A teacher/Admin has control in the question bank and is supposed to make schedule for the quizzes also. Not only this system carries out the quizzes but also auto-grade that for it. Administrative control of the whole system is provide.
